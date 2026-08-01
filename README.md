@@ -1,6 +1,6 @@
 # UofT Course Web
 2026-present <br>
-Personal project - First Python program without prior Python experience <br>
+Personal project - First Python program without prior Python experience - Made without AI assistance <br>
 <br>
 Uses: requests, BeautifulSoup4 <br>
 <br>
