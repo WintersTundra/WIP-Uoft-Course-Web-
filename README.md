@@ -1,4 +1,4 @@
-# UofT Course Web
+# UofT Course Prerequisite Map
 2026-present <br>
 Personal project - First Python program without prior Python project experience - Made without AI assistance <br>
 <br>
